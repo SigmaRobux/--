@@ -7,7 +7,7 @@ local White = {
 
 
 if not table.find(White,player.Name) then
-    player:Kick("You are not whitelisted")
+    player:Kick("You are not youtuber")
     return;
 end
 
