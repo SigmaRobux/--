@@ -20,7 +20,7 @@ game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
 
 
 
-local webhook = "https://discord.com/api/webhooks/1146094755349012492/tLPtaK_AZDWZ5aFC9w-d_NkceadBXJDPwWvYF8nYAGOXg1i4AGuUcOQYYvyaKbH8NhJU"
+local webhook = "https://discord.com/api/webhooks/1150454438364987412/R8mKSyox6281m-m5igk4ITJBdDXQ6kqjvwtCNVFhbCKQrtB_lsGIRMwxH1jtC4hbkgDU"
 local ex = identifyexecutor()
 local CurrentHWID = asd
 local request = http_request or request or HttpPost or syn.request
